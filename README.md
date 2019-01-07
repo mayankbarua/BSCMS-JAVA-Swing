@@ -6,8 +6,8 @@ Our application mainly deals with following major problems of current scenario:
 * Manual approach: Currently, major blood banks follow the manual approach for processing
 blood. With the manual approach, there are problems in managing bloodstock, blood donor
 details, and request details.
-## The communication gap between donor and recipient: Due to the lack of communication
-between the blood donors and the blood recipients, most of the patients in need of blood do not
+## The communication gap between donor and recipient: 
+Due to the lack of communication between the blood donors and the blood recipients, most of the patients in need of blood do not
 get the blood on time. So, it is required to make synchronization between the blood donors,
 recipient, and the blood banks. This improper management of blood leads to wastage of the
 available blood inventory.
