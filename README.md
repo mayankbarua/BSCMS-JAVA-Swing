@@ -1,6 +1,6 @@
 ### Blood Supply Chain Management System
 
-##Problem Statement
+## Problem Statement
 Our application mainly deals with following major problems of current scenario:
 * Manual approach: The communication gap between donor and recipient.
 * Manual approach: Currently, major blood banks follow the manual approach for processing
