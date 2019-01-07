@@ -19,3 +19,14 @@ searching, viewing and request blood information.
 and recipient.
 * Track availability of blood and information of different blood group.
 * Show information of blood bank, donor and recipient.
+
+### How to Run Application
+1. Browse application to netbeans 
+1. Clean and build the application 
+1. Go to Application folder and delete DataBank.db4o file
+1. Press F6 to execute the application
+
+### Libraries need to included : All libraries are available in application folder
+1. DB4o-8.0.184.15484-all-java5
+2. Java.mail
+3. jFreeChart 1.0.19
